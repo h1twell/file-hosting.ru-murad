@@ -1,8 +1,5 @@
 <?php
 
-namespace App\Console\file-hosting.ru-main\app\Http\Requests;
-
-use App\Console\fileuse Illuminate\Foundation\Http\FormRequest;
 
 class FileRenameRequest extends ApiRequest
 {
